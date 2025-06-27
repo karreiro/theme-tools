@@ -23,3 +23,5 @@ packages/lang-jsonc/src/parser.*
 .vscode-test-web
 .shopify
 packages/theme-graph/playground/src/graph.json
+
+
